@@ -1,0 +1,16 @@
+
+c
+java:S3252%"HUse static access with "com.alibaba.excel.EasyExcelFactory" for "write".(Í·ßıÿÿÿÿ
+U
+java:S1128":Remove this unused import 'com.alibaba.excel.ExcelReader'.(µÇÔûÿÿÿÿ
+Z
+java:S1128"?Remove this unused import 'com.alibaba.excel.EasyExcelFactory'.(Íî¨şÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Ã’”¡ÿÿÿÿÿ
+]
+java:S3252-"GUse static access with "com.alibaba.excel.EasyExcelFactory" for "read".(ôìëæ
+?
+java:S1128	")Remove this unused import 'java.io.File'.(†Ğ¥Å
+\
+java:S1128"FRemove this unused import 'com.alibaba.excel.read.metadata.ReadSheet'.(ğ••°
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(£ÆÏÁ8ï€Ğşè/
